@@ -10,17 +10,11 @@
 ### 🌐 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/tejashree-trivedi/" target="_blank">
+  <a href="https://www.linkedin.com/in/tejashreetrivedi/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/Tejashrree" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:tejashrree@gmail.com">
+  <a href="mailto:tejashree.business@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-purple?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
