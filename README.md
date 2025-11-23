@@ -193,7 +193,7 @@ I create **digital products** for coding beginners — cheat sheets, guides, tem
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tejashrree/tejashrree/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
