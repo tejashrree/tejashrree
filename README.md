@@ -182,11 +182,11 @@ I create **digital products** for coding beginners — cheat sheets, guides, tem
 
 <div align="center">
 
-### 💝 Thanks for visiting my profile! 
+### ✨ Thanks for visiting my profile! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tejashrree&style=for-the-badge&color=brightgreen)
 
-**✨ Star my repositories if you find them useful!**
+** 🌟 Star my repositories if you find them useful!**
 
 </div>
 
@@ -198,8 +198,12 @@ I create **digital products** for coding beginners — cheat sheets, guides, tem
 
 ---
 
+<div align="center">
+
 ### ⚡ Fun Fact
 
 > I can animate pixels, visualize moods with music, and turn caffeine into code ☕💻🎨
+
+</div>
 
 ---
