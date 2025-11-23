@@ -186,7 +186,7 @@ I create **digital products** for coding beginners — cheat sheets, guides, tem
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tejashrree&style=for-the-badge&color=brightgreen)
 
-** 🌟 Star my repositories if you find them useful!**
+**🌟 Star my repositories if you find them useful!**
 
 </div>
 
