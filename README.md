@@ -116,7 +116,7 @@ I create **digital products** for coding beginners — cheat sheets, guides, tem
 
 ### 🎓 B.E. Computer Engineering
 **Gujarat Technological University** • *Currently Pursuing*
-- 📊 **CGPA**: 8.55/10.0
+- 📊 **CGPA**: 9.45/10.0
 - 🎯 **Focus**: Full-Stack Development & Modern Web Technologies
 
 </div>
