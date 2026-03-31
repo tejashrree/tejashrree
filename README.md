@@ -15,7 +15,7 @@
 - 🔭 Currently pursuing **B.E. Computer Engineering** at **Gujarat Technological University**
 - 💡 Building **SaaS** applications with **Full-Stack Technology**
 - 🏆 **2x Devang Mehta IT Award Winner**
-- 🎯 Maintaining **8.55 CGPA** in Academics
+- 🎯 Maintaining **9.39 CGPA** in Academics
   
 ---
 
@@ -116,7 +116,7 @@ I create **digital products** for coding beginners — cheat sheets, guides, tem
 
 ### 🎓 B.E. Computer Engineering
 **Gujarat Technological University** • *Currently Pursuing*
-- 📊 **CGPA**: 9.45/10.0
+- 📊 **CGPA**: 9.39/10.0
 - 🎯 **Focus**: Full-Stack Development & Modern Web Technologies
 
 </div>
