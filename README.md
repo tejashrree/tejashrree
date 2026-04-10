@@ -163,6 +163,7 @@ I create **digital products** for coding beginners — cheat sheets, guides, tem
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tejashree.business@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejashreetrivedi/)
+[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/tejashrrree6)
 
 **💼 Open for:** Freelance Projects | Full-time Opportunities | Collaboration | Tech Discussions
 
