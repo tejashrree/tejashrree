@@ -1,20 +1,19 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=250&section=header&text=Tejashree%20Trivedi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20UI/UX%20Enthusiast%20•%20SaaS%20Builder&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=250&section=header&text=Tejashree%20Trivedi&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20•%20UI/UX%20Enthusiast%20•%20SaaS%20Builder&descAlignY=55"/>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Tech+Explorer+🚀;Creative+Web+Experiences+💻;Frontend+to+Fullstack+Journey+🧠;Building+Modern+Digital+Products+✨" />
-
+<br>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=tejashrree&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
 
 </div>
 
----
+
 
 # 🌸 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ```js
 const tejashree = {
@@ -51,7 +50,7 @@ const tejashree = {
 
 <br clear="right"/>
 
----
+
 
 # ⚡ Tech Arsenal
 
@@ -116,7 +115,8 @@ const tejashree = {
 
 </div>
 
----
+<br>
+
 
 # 📊 GitHub Analytics
 
@@ -140,16 +140,17 @@ const tejashree = {
 
 </div>
 
----
+<br>
+<br>
 
 # 🏆 Achievements
 
 <div align="center">
-
+<br>
 <img src="https://github-profile-trophy.vercel.app/?username=tejashrree&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
-
+<br>
 <div align="center">
 
 | 🏆 Achievement | 📊 Details |
@@ -160,7 +161,7 @@ const tejashree = {
 
 </div>
 
----
+<br><br>
 
 # 📝 Medium Articles
 
@@ -173,8 +174,9 @@ I write beginner-friendly tech articles with practical explanations ✨
 </a>
 
 </div>
+<br>
+<br>
 
----
 
 # 🛒 Gumroad Store
 
@@ -188,7 +190,7 @@ Digital products for coding beginners 💻✨
 
 </div>
 
----
+
 
 # 🐍 Contribution Snake
 
@@ -197,52 +199,70 @@ Digital products for coding beginners 💻✨
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
+<br>
+<br>
 
----
 
 # 🧠 Developer Mindset
 
-<div align="center">
+```mermaid
+%%{init: {'theme':'base','themeVariables':{
+'pie1':'#ffb6d9',
+'pie2':'#ff8fc7',
+'pie3':'#ff69b4',
+'pie4':'#ff4fa3',
+'pie5':'#ff2d92',
+'pieTitleTextColor':'#ff69b4',
+'pieSectionTextColor':'#ffffff',
+'pieSectionBorderColor':'#1a1b27',
+'pieOuterStrokeColor':'#1a1b27',
+'background':'#0d1117'
+}}}%%
 
-```text
-🎨 UI/UX Design       ████████████░░░░  80%
-🚀 Problem Solving    ██████████████░░  90%
-💻 Full Stack Dev     ██████████░░░░░░  70%
-🌸 Creativity         █████████████░░░  85%
-☕ Coffee Energy      ████████████████ 100%
+pie title
+    "🎨 UI/UX Design" : 80
+    "🚀 Problem Solving" : 90
+    "💻 Full Stack Dev" : 70
+    "🌸 Creativity" : 85
+    "☕ Coffee Energy" : 100
 ```
+<br>
+<br>
 
-</div>
 
----
 
 # 📫 Connect With Me
 
 <div align="center">
 
+<div align="center">
+
 <a href="mailto:tejashree.business@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-ff69b4?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/tejashreetrivedi/">
-  <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://www.behance.net/tejashrrree6">
-  <img src="https://img.shields.io/badge/Behance-ff69b4?style=for-the-badge&logo=behance&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white"/>
 </a>
 
 <a href="https://medium.com/@tejashrrree">
-  <img src="https://img.shields.io/badge/Medium-ff69b4?style=for-the-badge&logo=medium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 <a href="https://tejashrrree.gumroad.com">
-  <img src="https://img.shields.io/badge/Gumroad-ff69b4?style=for-the-badge&logo=gumroad&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gumroad-FF90E8?style=for-the-badge&logo=gumroad&logoColor=black"/>
 </a>
 
 </div>
+</div>
 
----
+<br>
+<br>
+
 
 <div align="center">
 
@@ -252,6 +272,6 @@ Digital products for coding beginners 💻✨
 
 </div>
 
----
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/>
