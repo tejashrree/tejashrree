@@ -218,7 +218,7 @@ Digital products for coding beginners 💻✨
 'background':'#0d1117'
 }}}%%
 
-pie showData title Developer Mindset
+pie showData title
     "UI/UX Design" : 80
     "Problem Solving" : 90
     "Full Stack Dev" : 70
