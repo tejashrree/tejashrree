@@ -3,8 +3,8 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Tech+Explorer+🚀;Creative+Web+Experiences+💻;Frontend+to+Fullstack+Journey+🧠;Building+Modern+Digital+Products+✨" />
+
 <br>
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=tejashrree&label=Profile+Views&color=ff69b4&style=for-the-badge"/>
 
@@ -14,14 +14,13 @@
 
 # 🌸 About Me
 
-
 ```js
 const tejashree = {
   role: "Full-Stack Web Developer",
   education: "B.E Computer Engineering",
   university: "Gujarat Technological University",
   cgpa: "9.39",
-  
+
   interests: [
     "Full Stack Development",
     "UI/UX Design",
@@ -48,7 +47,7 @@ const tejashree = {
 - 💡 Exploring modern web technologies
 - ☕ Turning caffeine into code daily
 
-<br clear="right"/>
+<br>
 
 
 
@@ -84,6 +83,8 @@ const tejashree = {
 </tr>
 </table>
 
+<br>
+
 <table>
 <tr>
 <td valign="top" width="50%">
@@ -92,7 +93,7 @@ const tejashree = {
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=openai&theme=dark"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/Gemini-8A2BE2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
 
 </p>
@@ -118,39 +119,39 @@ const tejashree = {
 <br>
 
 
+
 # 📊 GitHub Analytics
 
 <div align="center">
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tejashrree&theme=tokyonight" width="100%"/>
 
-</div>
+<br><br>
 
-<div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tejashrree&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=tejashrree&theme=tokyonight&hide_border=true&background=0D1117"/>
 
-</div>
-
-<div align="center">
+<br><br>
 
 <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=tejashrree&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 <br>
-<br>
+
+
 
 # 🏆 Achievements
 
 <div align="center">
-<br>
+
 <img src="https://github-profile-trophy.vercel.app/?username=tejashrree&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
 </div>
+
 <br>
+
 <div align="center">
 
 | 🏆 Achievement | 📊 Details |
@@ -161,7 +162,9 @@ const tejashree = {
 
 </div>
 
-<br><br>
+<br>
+<br>
+
 
 # 📝 Medium Articles
 
@@ -169,13 +172,16 @@ const tejashree = {
 
 I write beginner-friendly tech articles with practical explanations ✨
 
+<br>
+
 <a href="https://medium.com/@tejashrrree">
 <img src="https://img.shields.io/badge/Read%20on%20Medium-ff69b4?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 
 </div>
+
 <br>
-<br>
+
 
 
 # 🛒 Gumroad Store
@@ -184,24 +190,17 @@ I write beginner-friendly tech articles with practical explanations ✨
 
 Digital products for coding beginners 💻✨
 
+<br>
+
 <a href="https://tejashrrree.gumroad.com">
 <img src="https://img.shields.io/badge/Visit%20My%20Store-8A2BE2?style=for-the-badge&logo=gumroad&logoColor=white"/>
 </a>
 
 </div>
 
-
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-<br>
 <br>
 
+<br>
 
 # 🧠 Developer Mindset
 
@@ -219,21 +218,19 @@ Digital products for coding beginners 💻✨
 'background':'#0d1117'
 }}}%%
 
-pie title
-    "🎨 UI/UX Design" : 80
-    "🚀 Problem Solving" : 90
-    "💻 Full Stack Dev" : 70
-    "🌸 Creativity" : 85
-    "☕ Coffee Energy" : 100
+pie showData title Developer Mindset
+    "UI/UX Design" : 80
+    "Problem Solving" : 90
+    "Full Stack Dev" : 70
+    "Creativity" : 85
+    "Coffee Energy" : 100
 ```
-<br>
-<br>
 
+<br>
+<br>
 
 
 # 📫 Connect With Me
-
-<div align="center">
 
 <div align="center">
 
@@ -258,19 +255,15 @@ pie title
 </a>
 
 </div>
-</div>
+
+<br>
+
 
 <br>
 <br>
-
-
 <div align="center">
 
-## ✨ Quote I Believe In
-
-> "Design. Build. Improve. Repeat."
-
-</div>
+> "Design. Build. Improve. Repeat." 🌸
 
 <br>
 
